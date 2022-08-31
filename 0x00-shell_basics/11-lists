@@ -1,4 +1,2 @@
 #!/bin/bash
-sudo ls -al 
-sudo ls -al ../
-sudo ls -al /boot
+sudo ls -al . ../ /boot
