@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo echo $(ls -s)
+sudo echo $(ls -x)
